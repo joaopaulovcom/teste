@@ -1,0 +1,12 @@
+C:\Users\leonardo.oliveira\Desktop\TreinamentoGit\TreinamentoGit\Treinamento\bin\Debug\Treinamento.exe.config
+C:\Users\leonardo.oliveira\Desktop\TreinamentoGit\TreinamentoGit\Treinamento\bin\Debug\Treinamento.exe
+C:\Users\leonardo.oliveira\Desktop\TreinamentoGit\TreinamentoGit\Treinamento\bin\Debug\Treinamento.pdb
+C:\Users\leonardo.oliveira\Desktop\TreinamentoGit\TreinamentoGit\Treinamento\obj\Debug\Treinamento.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.oliveira\Desktop\TreinamentoGit\TreinamentoGit\Treinamento\obj\Debug\Treinamento.exe
+C:\Users\leonardo.oliveira\Desktop\TreinamentoGit\TreinamentoGit\Treinamento\obj\Debug\Treinamento.pdb
+\\vc12\Users\leonardo.oliveira\Treinamento\Treinamento\bin\Debug\Treinamento.exe.config
+\\vc12\Users\leonardo.oliveira\Treinamento\Treinamento\obj\Debug\Treinamento.exe
+\\vc12\Users\leonardo.oliveira\Treinamento\Treinamento\obj\Debug\Treinamento.pdb
+\\vc12\Users\leonardo.oliveira\Treinamento\Treinamento\bin\Debug\Treinamento.exe
+\\vc12\Users\leonardo.oliveira\Treinamento\Treinamento\bin\Debug\Treinamento.pdb
+\\vc12\Users\leonardo.oliveira\Treinamento\Treinamento\obj\Debug\Treinamento.csprojResolveAssemblyReference.cache
